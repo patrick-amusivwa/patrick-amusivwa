@@ -2,7 +2,9 @@
 <h3 align="center">developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrick-amusivwa&label=Profile%20views&color=0e75b6&style=flat" alt="patrick-amusivwa" /> </p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrick-amusivwa)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrick-amusivwa&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patick-amusivwa&show_icons=true)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patrick-amusivwa" alt="patrick-amusivwa" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/1945hours" target="blank"><img src="https://img.shields.io/twitter/follow/1945hours?logo=twitter&style=for-the-badge" alt="1945hours" /></a> </p>
